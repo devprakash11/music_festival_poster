@@ -1,6 +1,6 @@
 # Music Festival Poster Template
 
-![Music Festival Poster](poster_preview.jpg)
+![Music Festival Poster](music-festival.jpg)
 
 ---
 
